@@ -20,7 +20,7 @@ Neutral_Faces
 
 faces_Practice
 
-* Folder of faces for practice during task. Note: these are not matched, you may want to pick matched faces that aren't used from the Neutral_Faces folder.
+* Folder of faces for practice during the task. Note: these are not matched, you may want to pick matched faces that aren't used from the Neutral_Faces folder.
 
 Faces_to_Folders.py
 
@@ -41,7 +41,7 @@ Neutral_Faces_Task.py
 * Task!
 
 ### Running the Task
-To run task, you may either:
+To run the task, you may either:
 
 1) Install the PsychoPy standalone GUI (https://www.psychopy.org/download.html)
 From there, using the Coder view you can open the script from wherever it is located for you. 
